@@ -2,6 +2,8 @@
 
 // console.log("My first NODE JS app");
 
+/*  ***Reading Input and Writing Output*** */
+
 const readline = require("readline"); // Require and interface
 
 const rl = readline.createInterface({
